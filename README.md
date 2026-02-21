@@ -1,0 +1,2 @@
+# COMPUTATIONAL-TECHNIQUE-FOR-PREDICTING-PROPERTIES-OF-POLYMER-MATRIX-COMPOSITES
+This project presents a computational optimization framework for predicting and enhancing the mechanical properties of hybrid natural fiber polymer composites. The study focuses on abaca fiber–epoxy composites reinforced with red mud filler, combining sustainable materials with advanced metaheuristic optimization techniques.
